@@ -1,0 +1,101 @@
+item_id,domain,competency,level
+Q001,Internal Medicine,Diagnosis,Application
+Q002,Internal Medicine,Prevention,Analysis
+Q003,Internal Medicine,Diagnosis,Recall
+Q004,Internal Medicine,Prevention,Analysis
+Q005,Internal Medicine,Prevention,Analysis
+Q006,Internal Medicine,Prevention,Recall
+Q007,Internal Medicine,Prevention,Application
+Q008,Internal Medicine,Management,Analysis
+Q009,Internal Medicine,Prevention,Analysis
+Q010,Internal Medicine,Management,Application
+Q011,Internal Medicine,Management,Application
+Q012,Internal Medicine,Diagnosis,Recall
+Q013,Internal Medicine,Prevention,Application
+Q014,Internal Medicine,Prevention,Application
+Q015,Internal Medicine,Prevention,Analysis
+Q016,Internal Medicine,Management,Analysis
+Q017,Internal Medicine,Prevention,Recall
+Q018,Internal Medicine,Prevention,Application
+Q019,Internal Medicine,Management,Recall
+Q020,Internal Medicine,Diagnosis,Application
+Q021,Internal Medicine,Prevention,Analysis
+Q022,Internal Medicine,Prevention,Application
+Q023,Internal Medicine,Prevention,Application
+Q024,Internal Medicine,Management,Recall
+Q025,Internal Medicine,Management,Application
+Q026,Internal Medicine,Diagnosis,Recall
+Q027,Internal Medicine,Management,Application
+Q028,Internal Medicine,Prevention,Analysis
+Q029,Internal Medicine,Management,Recall
+Q030,Internal Medicine,Prevention,Analysis
+Q031,Internal Medicine,Management,Application
+Q032,Surgery,Prevention,Recall
+Q033,Surgery,Diagnosis,Recall
+Q034,Surgery,Prevention,Recall
+Q035,Surgery,Prevention,Analysis
+Q036,Surgery,Diagnosis,Application
+Q037,Surgery,Management,Analysis
+Q038,Surgery,Prevention,Application
+Q039,Surgery,Management,Recall
+Q040,Surgery,Management,Recall
+Q041,Surgery,Management,Application
+Q042,Surgery,Prevention,Application
+Q043,Surgery,Diagnosis,Application
+Q044,Surgery,Prevention,Application
+Q045,Surgery,Diagnosis,Recall
+Q046,Surgery,Management,Recall
+Q047,Surgery,Management,Recall
+Q048,Surgery,Management,Application
+Q049,Pediatrics,Prevention,Recall
+Q050,Pediatrics,Prevention,Recall
+Q051,Pediatrics,Prevention,Recall
+Q052,Pediatrics,Diagnosis,Application
+Q053,Pediatrics,Diagnosis,Analysis
+Q054,Pediatrics,Management,Application
+Q055,Pediatrics,Management,Analysis
+Q056,Pediatrics,Management,Recall
+Q057,Pediatrics,Management,Recall
+Q058,Pediatrics,Diagnosis,Application
+Q059,Pediatrics,Prevention,Recall
+Q060,Pediatrics,Management,Application
+Q061,Pediatrics,Prevention,Application
+Q062,Pediatrics,Diagnosis,Application
+Q063,Pediatrics,Diagnosis,Recall
+Q064,Pediatrics,Management,Application
+Q065,Pediatrics,Management,Recall
+Q066,Pediatrics,Management,Recall
+Q067,Pediatrics,Management,Analysis
+Q068,Pediatrics,Prevention,Application
+Q069,Pediatrics,Management,Analysis
+Q070,Obstetrics & Gynecology,Diagnosis,Application
+Q071,Obstetrics & Gynecology,Diagnosis,Application
+Q072,Obstetrics & Gynecology,Prevention,Recall
+Q073,Obstetrics & Gynecology,Diagnosis,Analysis
+Q074,Obstetrics & Gynecology,Diagnosis,Application
+Q075,Obstetrics & Gynecology,Prevention,Recall
+Q076,Obstetrics & Gynecology,Diagnosis,Application
+Q077,Obstetrics & Gynecology,Management,Analysis
+Q078,Obstetrics & Gynecology,Diagnosis,Application
+Q079,Obstetrics & Gynecology,Management,Application
+Q080,Obstetrics & Gynecology,Prevention,Application
+Q081,Obstetrics & Gynecology,Diagnosis,Application
+Q082,Obstetrics & Gynecology,Management,Recall
+Q083,Obstetrics & Gynecology,Prevention,Recall
+Q084,Obstetrics & Gynecology,Management,Application
+Q085,Obstetrics & Gynecology,Diagnosis,Recall
+Q086,Obstetrics & Gynecology,Diagnosis,Recall
+Q087,Obstetrics & Gynecology,Diagnosis,Recall
+Q088,Obstetrics & Gynecology,Management,Analysis
+Q089,Public Health,Prevention,Application
+Q090,Public Health,Health Systems,Application
+Q091,Public Health,Epidemiology,Analysis
+Q092,Public Health,Epidemiology,Application
+Q093,Public Health,Health Systems,Recall
+Q094,Public Health,Prevention,Application
+Q095,Public Health,Prevention,Analysis
+Q096,Public Health,Health Systems,Application
+Q097,Public Health,Health Systems,Recall
+Q098,Public Health,Health Systems,Application
+Q099,Public Health,Health Systems,Application
+Q100,Public Health,Health Systems,Recall

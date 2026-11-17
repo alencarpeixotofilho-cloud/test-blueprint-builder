@@ -1,0 +1,46 @@
+domain,competency,level,items,target
+Internal Medicine,Diagnosis,Recall,2,2.0
+Internal Medicine,Diagnosis,Application,5,5.0
+Internal Medicine,Diagnosis,Analysis,3,3.0
+Internal Medicine,Management,Recall,2,2.0
+Internal Medicine,Management,Application,5,5.0
+Internal Medicine,Management,Analysis,3,3.0
+Internal Medicine,Prevention,Recall,1,1.0
+Internal Medicine,Prevention,Application,3,2.5
+Internal Medicine,Prevention,Analysis,1,1.5
+Surgery,Diagnosis,Recall,1,1.4
+Surgery,Diagnosis,Application,4,3.5
+Surgery,Diagnosis,Analysis,2,2.1
+Surgery,Management,Recall,2,2.0
+Surgery,Management,Application,5,5.0
+Surgery,Management,Analysis,3,3.0
+Surgery,Prevention,Recall,1,0.6
+Surgery,Prevention,Application,1,1.5
+Surgery,Prevention,Analysis,1,0.9
+Pediatrics,Diagnosis,Recall,1,1.4
+Pediatrics,Diagnosis,Application,4,3.5
+Pediatrics,Diagnosis,Analysis,2,2.1
+Pediatrics,Management,Recall,1,1.4
+Pediatrics,Management,Application,4,3.5
+Pediatrics,Management,Analysis,2,2.1
+Pediatrics,Prevention,Recall,1,1.2
+Pediatrics,Prevention,Application,3,3.0
+Pediatrics,Prevention,Analysis,2,1.8
+Obstetrics & Gynecology,Diagnosis,Recall,1,1.4
+Obstetrics & Gynecology,Diagnosis,Application,4,3.5
+Obstetrics & Gynecology,Diagnosis,Analysis,2,2.1
+Obstetrics & Gynecology,Management,Recall,2,1.6
+Obstetrics & Gynecology,Management,Application,4,4.0
+Obstetrics & Gynecology,Management,Analysis,2,2.4
+Obstetrics & Gynecology,Prevention,Recall,1,1.0
+Obstetrics & Gynecology,Prevention,Application,3,2.5
+Obstetrics & Gynecology,Prevention,Analysis,1,1.5
+Public Health,Epidemiology,Recall,1,1.2
+Public Health,Epidemiology,Application,3,3.0
+Public Health,Epidemiology,Analysis,2,1.8
+Public Health,Health Systems,Recall,1,0.9
+Public Health,Health Systems,Application,3,2.25
+Public Health,Health Systems,Analysis,1,1.35
+Public Health,Prevention,Recall,1,0.9
+Public Health,Prevention,Application,2,2.25
+Public Health,Prevention,Analysis,1,1.35

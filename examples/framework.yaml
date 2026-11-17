@@ -1,0 +1,42 @@
+# Fictitious reference framework for a 100-item clinical-sciences exam.
+# Weights are relative (they are normalized automatically).
+name: Sample Clinical Sciences Framework
+items: 100
+
+domains:
+  Internal Medicine:
+    weight: 25
+    min_items: 15
+    competencies:
+      Diagnosis: 40
+      Management: 40
+      Prevention: 20
+  Surgery:
+    weight: 20
+    competencies:
+      Diagnosis: 35
+      Management: 50
+      Prevention: 15
+  Pediatrics:
+    weight: 20
+    competencies:
+      Diagnosis: 35
+      Management: 35
+      Prevention: 30
+  Obstetrics & Gynecology:
+    weight: 20
+    competencies:
+      Diagnosis: 35
+      Management: 40
+      Prevention: 25
+  Public Health:
+    weight: 15
+    competencies:
+      Epidemiology: 40
+      Health Systems: 30
+      Prevention: 30
+
+cognitive_levels:
+  Recall: 20
+  Application: 50
+  Analysis: 30

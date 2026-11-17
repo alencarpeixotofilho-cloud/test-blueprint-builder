@@ -1,0 +1,93 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[margin=2.2cm]{geometry}
+\usepackage{booktabs,longtable,xcolor}
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+\definecolor{primary}{HTML}{1F3A5F}
+
+\begin{document}
+{\color{primary}\LARGE\bfseries Sample Clinical Sciences Framework}\par
+\vspace{2pt}{\color{gray}Test blueprint · 100 items}\par
+\vspace{14pt}
+
+\section*{Domain $\times$ cognitive level}
+\begin{center}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Domain} & \textbf{Recall} & \textbf{Application} & \textbf{Analysis} & \textbf{Total} \\
+\midrule
+Internal Medicine & 5 & 13 & 7 & 25 \\
+Obstetrics \& Gynecology & 4 & 11 & 5 & 20 \\
+Pediatrics & 3 & 11 & 6 & 20 \\
+Public Health & 3 & 8 & 4 & 15 \\
+Surgery & 4 & 10 & 6 & 20 \\
+\midrule
+\textbf{Total} & \textbf{19} & \textbf{53} & \textbf{28} & \textbf{100} \\
+\bottomrule
+\end{tabular}
+\end{center}
+
+\section*{Detailed allocation}
+\begin{longtable}{llr}
+\toprule
+\textbf{Competency} & \textbf{Cognitive level} & \textbf{Items} \\
+\midrule
+\endhead
+\multicolumn{3}{l}{\textbf{Internal Medicine}} \\
+\quad Diagnosis & Recall & 2 \\
+\quad Diagnosis & Application & 5 \\
+\quad Diagnosis & Analysis & 3 \\
+\quad Management & Recall & 2 \\
+\quad Management & Application & 5 \\
+\quad Management & Analysis & 3 \\
+\quad Prevention & Recall & 1 \\
+\quad Prevention & Application & 3 \\
+\quad Prevention & Analysis & 1 \\
+\multicolumn{3}{l}{\textbf{Surgery}} \\
+\quad Diagnosis & Recall & 1 \\
+\quad Diagnosis & Application & 4 \\
+\quad Diagnosis & Analysis & 2 \\
+\quad Management & Recall & 2 \\
+\quad Management & Application & 5 \\
+\quad Management & Analysis & 3 \\
+\quad Prevention & Recall & 1 \\
+\quad Prevention & Application & 1 \\
+\quad Prevention & Analysis & 1 \\
+\multicolumn{3}{l}{\textbf{Pediatrics}} \\
+\quad Diagnosis & Recall & 1 \\
+\quad Diagnosis & Application & 4 \\
+\quad Diagnosis & Analysis & 2 \\
+\quad Management & Recall & 1 \\
+\quad Management & Application & 4 \\
+\quad Management & Analysis & 2 \\
+\quad Prevention & Recall & 1 \\
+\quad Prevention & Application & 3 \\
+\quad Prevention & Analysis & 2 \\
+\multicolumn{3}{l}{\textbf{Obstetrics \& Gynecology}} \\
+\quad Diagnosis & Recall & 1 \\
+\quad Diagnosis & Application & 4 \\
+\quad Diagnosis & Analysis & 2 \\
+\quad Management & Recall & 2 \\
+\quad Management & Application & 4 \\
+\quad Management & Analysis & 2 \\
+\quad Prevention & Recall & 1 \\
+\quad Prevention & Application & 3 \\
+\quad Prevention & Analysis & 1 \\
+\multicolumn{3}{l}{\textbf{Public Health}} \\
+\quad Epidemiology & Recall & 1 \\
+\quad Epidemiology & Application & 3 \\
+\quad Epidemiology & Analysis & 2 \\
+\quad Health Systems & Recall & 1 \\
+\quad Health Systems & Application & 3 \\
+\quad Health Systems & Analysis & 1 \\
+\quad Prevention & Recall & 1 \\
+\quad Prevention & Application & 2 \\
+\quad Prevention & Analysis & 1 \\
+\bottomrule
+\end{longtable}
+
+\vfill
+{\footnotesize\color{gray} Generated with test-blueprint-builder. Allocation by the largest-remainder (Hamilton) method.}
+\end{document}

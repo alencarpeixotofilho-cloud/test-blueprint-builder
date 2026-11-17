@@ -1,0 +1,47 @@
+# --- Data protection: real data never goes into this repository ---
+# Spreadsheets, data files and PDFs are ignored everywhere ...
+*.xlsx
+*.xls
+*.csv
+*.sav
+*.rds
+*.RData
+*.pdf
+/data/
+/out/
+/output/
+# ... except the synthetic examples and generated documentation of this project
+!examples/**
+!docs/**
+!questionnaires/**
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.Rproj.user/
+rsconnect/
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+
+# OS / secrets
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
