@@ -1,0 +1,39 @@
+# --- Proteção de dados: nada de dados reais no repositório ---
+dados/
+data/
+*.xlsx
+*.xls
+*.csv
+*.sav
+*.rds
+*.RData
+*.pdf
+!docs/**/*.pdf
+# exceção: dados sintéticos gerados pelo próprio projeto
+!exemplos/**
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.Rproj.user/
+rsconnect/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
